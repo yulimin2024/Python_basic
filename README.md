@@ -12,6 +12,9 @@ dictionary{key:value}
 " ".join() : list->string
 Question 1~11
 
-#pytho02.py
+#python02.py
 youtube lecture: https://www.youtube.com/watch?v=Gdl989FHNFU
 if/for/while+break, continue
+
+#pythonn03.py
+youtube lecture: https://www.youtube.com/watch?v=RMW6_z_EJ9o
